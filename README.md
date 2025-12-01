@@ -1,0 +1,55 @@
+# 🌍 johnkato-prompts-public
+
+**@johnkato のAIプロンプト公開リポジトリ**
+
+このリポジトリは、ビジネス機密を含まない汎用的なAIプロンプトと知見を共有する場所です。
+
+## 📚 このリポジトリについて
+
+- **目的**: 実務で使えるAIプロンプトのベストプラクティスを公開
+- **対象**: AIを業務で活用したい全てのビジネスパーソン
+- **ライセンス**: CC-BY-4.0（商用利用可、改変可、帰属表示必要）
+
+## 🎯 提供するコンテンツ
+
+### プロンプトカテゴリー
+- 📝 **ビジネス文書作成**: 提案書、報告書、メール文例
+- 📊 **データ分析**: データ解釈、洞察抽出、レポート作成
+- 🌐 **多言語対応**: 翻訳、ローカライゼーション支援
+- 💡 **アイデア発想**: ブレインストーミング、企画立案
+- 🔍 **リサーチ**: 情報収集、要約、比較分析
+
+## 🚀 使い方
+
+1. 興味のあるプロンプトファイルを閲覧
+2. 自分の用途に合わせてカスタマイズ
+3. 実務で活用
+
+## 💬 コミュニティ
+
+- **Discussions**: 質問、アイデア共有、改善提案
+  - 💡 [Ideas](https://github.com/johnkato/johnkato-prompts-public/discussions/categories/ideas) - 新しいプロンプトのアイデア
+  - ❓ [Q&A](https://github.com/johnkato/johnkato-prompts-public/discussions/categories/q-a) - 使い方の質問
+
+## 📜 ライセンス
+
+このリポジトリのコンテンツは [CC-BY-4.0](LICENSE) ライセンスの下で提供されています。
+
+- ✅ 商用利用可
+- ✅ 改変可
+- ✅ 再配布可
+- ⚠️ 帰属表示が必要
+
+## 🔗 関連リンク
+
+- 🐦 Twitter: [@johnkato](https://twitter.com/johnkato)
+- 💼 LinkedIn: [John Kato](https://linkedin.com/in/johnkato)
+
+## ⚠️ 免責事項
+
+このリポジトリのプロンプトは「現状のまま」提供されます。使用結果について作者は責任を負いません。
+
+---
+
+**Last Updated:** 2025-12-01  
+**Maintained by:** @johnkato
