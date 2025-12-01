@@ -42,8 +42,8 @@
 
 ## 🔗 関連リンク
 
-- 🐦 Twitter: [@johnkato](https://twitter.com/johnkato)
-- 💼 LinkedIn: [John Kato](https://linkedin.com/in/johnkato)
+- 🐦 Twitter: 
+- 💼 LinkedIn: 
 
 ## ⚠️ 免責事項
 
